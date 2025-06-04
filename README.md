@@ -1,6 +1,6 @@
-# pmm2_client
+# pmm_client
 
-This role installs and configures the Percona PMM2 Client.
+This role installs and configures the Percona PMM Client.
 
 ## Author Information
 
